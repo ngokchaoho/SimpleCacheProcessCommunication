@@ -1,4 +1,4 @@
-# Project 3 gios-spr-23-pr3
+# Multiprocesses Communication
 
 This is **HO NGOK CHAO**'s Readme file.
 
